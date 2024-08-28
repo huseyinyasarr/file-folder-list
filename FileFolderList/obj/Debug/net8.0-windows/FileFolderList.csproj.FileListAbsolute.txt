@@ -1,0 +1,16 @@
+C:\Users\yakay\source\repos\FileFolderList\FileFolderList\bin\Debug\net8.0-windows\FileFolderList.exe
+C:\Users\yakay\source\repos\FileFolderList\FileFolderList\bin\Debug\net8.0-windows\FileFolderList.deps.json
+C:\Users\yakay\source\repos\FileFolderList\FileFolderList\bin\Debug\net8.0-windows\FileFolderList.runtimeconfig.json
+C:\Users\yakay\source\repos\FileFolderList\FileFolderList\bin\Debug\net8.0-windows\FileFolderList.dll
+C:\Users\yakay\source\repos\FileFolderList\FileFolderList\bin\Debug\net8.0-windows\FileFolderList.pdb
+C:\Users\yakay\source\repos\FileFolderList\FileFolderList\obj\Debug\net8.0-windows\FileFolderList.Form1.resources
+C:\Users\yakay\source\repos\FileFolderList\FileFolderList\obj\Debug\net8.0-windows\FileFolderList.csproj.GenerateResource.cache
+C:\Users\yakay\source\repos\FileFolderList\FileFolderList\obj\Debug\net8.0-windows\FileFolderList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakay\source\repos\FileFolderList\FileFolderList\obj\Debug\net8.0-windows\FileFolderList.AssemblyInfoInputs.cache
+C:\Users\yakay\source\repos\FileFolderList\FileFolderList\obj\Debug\net8.0-windows\FileFolderList.AssemblyInfo.cs
+C:\Users\yakay\source\repos\FileFolderList\FileFolderList\obj\Debug\net8.0-windows\FileFolderList.csproj.CoreCompileInputs.cache
+C:\Users\yakay\source\repos\FileFolderList\FileFolderList\obj\Debug\net8.0-windows\FileFolderList.dll
+C:\Users\yakay\source\repos\FileFolderList\FileFolderList\obj\Debug\net8.0-windows\refint\FileFolderList.dll
+C:\Users\yakay\source\repos\FileFolderList\FileFolderList\obj\Debug\net8.0-windows\FileFolderList.pdb
+C:\Users\yakay\source\repos\FileFolderList\FileFolderList\obj\Debug\net8.0-windows\FileFolderList.genruntimeconfig.cache
+C:\Users\yakay\source\repos\FileFolderList\FileFolderList\obj\Debug\net8.0-windows\ref\FileFolderList.dll
