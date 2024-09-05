@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FileFolderList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6f93286b477ec9c6e627863a52d30919975476a")]
 [assembly: System.Reflection.AssemblyProductAttribute("FileFolderList")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FileFolderList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

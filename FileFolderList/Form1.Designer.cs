@@ -32,6 +32,8 @@
             button1 = new Button();
             textBox1 = new TextBox();
             label1 = new Label();
+            textBox_FileCount = new TextBox();
+            label2 = new Label();
             SuspendLayout();
             // 
             // listBox1
@@ -70,15 +72,34 @@
             label1.Text = "Klasör Yolu";
             label1.Click += label1_Click;
             // 
+            // textBox_FileCount
+            // 
+            textBox_FileCount.Location = new Point(677, 382);
+            textBox_FileCount.Name = "textBox_FileCount";
+            textBox_FileCount.Size = new Size(39, 27);
+            textBox_FileCount.TabIndex = 4;
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Location = new Point(620, 359);
+            label2.Name = "label2";
+            label2.Size = new Size(104, 40);
+            label2.TabIndex = 5;
+            label2.Text = "Toplam Dosya\r\nSayısı:";
+            label2.Click += label2_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(735, 450);
+            Controls.Add(textBox_FileCount);
             Controls.Add(label1);
             Controls.Add(textBox1);
             Controls.Add(button1);
             Controls.Add(listBox1);
+            Controls.Add(label2);
             Name = "Form1";
             Text = "Form1";
             ResumeLayout(false);
@@ -91,5 +112,7 @@
         private Button button1;
         private TextBox textBox1;
         private Label label1;
+        private TextBox textBox_FileCount;
+        private Label label2;
     }
 }

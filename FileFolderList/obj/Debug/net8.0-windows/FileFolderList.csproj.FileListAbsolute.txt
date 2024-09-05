@@ -14,3 +14,4 @@ C:\Users\yakay\source\repos\FileFolderList\FileFolderList\obj\Debug\net8.0-windo
 C:\Users\yakay\source\repos\FileFolderList\FileFolderList\obj\Debug\net8.0-windows\FileFolderList.pdb
 C:\Users\yakay\source\repos\FileFolderList\FileFolderList\obj\Debug\net8.0-windows\FileFolderList.genruntimeconfig.cache
 C:\Users\yakay\source\repos\FileFolderList\FileFolderList\obj\Debug\net8.0-windows\ref\FileFolderList.dll
+C:\Users\yakay\source\repos\FileFolderList\FileFolderList\obj\Debug\net8.0-windows\FileFolderList.sourcelink.json

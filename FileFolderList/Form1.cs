@@ -9,11 +9,16 @@ namespace FileFolderList
             InitializeComponent();
         }
 
+
+
         private void button1_Click(object sender, EventArgs e)
         {
+            var fileCount = 0;
             listBox1.Items.Clear();
+            textBox_FileCount.Clear();
             var path = textBox1.Text;
             ListFiles(path);
+
 
             string ListFiles(string path)
             {
@@ -32,12 +37,14 @@ namespace FileFolderList
                 }
 
 
-
+                
                 foreach (string file in Directory.GetFiles(path))
                 {
-
+                    fileCount++;
                     listBox1.Items.Add(file.Split('\\').Last());
                 }
+
+                textBox_FileCount.Text = fileCount.ToString();
 
                 foreach (string directory in Directory.GetDirectories(path))
                 {
@@ -51,6 +58,11 @@ namespace FileFolderList
         private void label1_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+            
         }
     }
 }
